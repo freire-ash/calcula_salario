@@ -1,0 +1,57 @@
+/* define fonte e cor e ajusta o formato da tela */
+body {
+    font-family: Verdana;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+/* ajusta a primeira tela para o centro da tela usando div */
+#porta {
+    text-align: center;
+    position: fixed;
+    right: 350px;
+}
+ /* coloca as informações no centro da tela */
+div {
+    text-align: center;
+    position: fixed;
+}
+/*alinha cada formulario em seu devido lugar   */
+form {
+ 
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-gap: 10px;
+}
+ 
+/* estiliza e colore as bordas  */
+input[type="text"],
+input[type="number"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #30015f;
+    background-color: #333;
+    color: #fff;
+}
+/* ao passar mouse colore input */
+input:hover{   background-color: #000000;
+    color: #7100b3;}
+    /* estiliza e modifica a estrutura do botão */
+button {
+    padding: 10px 20px;
+    background-color: #7100b3;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+/* ao passar mouse colore botão */
+button:hover {
+    background-color: #000000;
+    color: #7100b3;
+}
