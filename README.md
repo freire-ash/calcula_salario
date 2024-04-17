@@ -18,7 +18,9 @@
 - `main.css`: Arquivo CSS para estilização básica do formulário.
 
 
-Tecnologias ultilizadas:
+##Tecnologias ultilizadas:
+
+| Tecnologia    | versão    |
 |---------------|-----------|
 | HMTL          | 5         |
 | CSS           | 3         |
@@ -26,7 +28,6 @@ Tecnologias ultilizadas:
 |PHP            |    v8.2   |
 | Git hub       |           |
 |Apache         |2.4.53     |
-|---------------|-----------|
 ## Autor
 
 Criado por [Leonardo Fernando Freire](https://github.com/freire-ash).
