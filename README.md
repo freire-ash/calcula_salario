@@ -26,5 +26,5 @@ Tecnologias ultilizadas:
 - Xampp
 ## Autor
 
-Criado por [Leonardo Fernando Freire](https://github.com/freire_ash).
+Criado por [Leonardo Fernando Freire](https://github.com/freire-ash).
 
