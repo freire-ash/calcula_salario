@@ -19,11 +19,14 @@
 
 
 Tecnologias ultilizadas:
-- Github
-- html5
-- css3
-- php
-- Xampp
+|---------------|-----------|
+| HMTL          | 5         |
+| CSS           | 3         |
+| XAMPP         | v.3.0.3.  |
+|PHP            |    v8.2   |
+| Git hub       |           |
+|Apache         |2.4.53     |
+
 ## Autor
 
 Criado por [Leonardo Fernando Freire](https://github.com/freire-ash).
