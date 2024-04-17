@@ -26,7 +26,7 @@ Tecnologias ultilizadas:
 |PHP            |    v8.2   |
 | Git hub       |           |
 |Apache         |2.4.53     |
-
+|---------------|-----------|
 ## Autor
 
 Criado por [Leonardo Fernando Freire](https://github.com/freire-ash).
